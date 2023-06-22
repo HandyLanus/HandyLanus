@@ -149,6 +149,7 @@ text-align: center;
 }
 
 .containerInicioNosotros{
+    padding-top: 5px;
     display: flex;
 }
 
