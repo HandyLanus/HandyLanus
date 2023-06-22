@@ -134,6 +134,7 @@ text-align: center;
     height: 300px;
     background-color: black;
     padding-top: 190px;
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=360&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%20360w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=740&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%20740w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=826&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%20826w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=900&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%20900w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=996&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%20996w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=1060&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%201060w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=1380&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%201380w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=1480&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%201480w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=1800&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%201800w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=2000&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%202000w);
 }
 
 .tituloSobreNosotros{
@@ -148,7 +149,6 @@ text-align: center;
 }
 
 .containerInicioNosotros{
-    background-color: black;
     display: flex;
 }
 
@@ -156,7 +156,6 @@ text-align: center;
     color: white;
     padding-bottom: 5px;
     padding-left: 15px;
-    background-color: black;
 }
 
 .colorOrange{
