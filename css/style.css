@@ -35,11 +35,15 @@
     color: #FF7F2B!important;
 }
 
-.containerCards{
+.containerCards, .containerCardsProductos{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+.containerCardsProductos{
+    padding-top: 40px;
 }
 
 .btn-primary{
