@@ -172,12 +172,12 @@ text-align: center;
 }
 
 .textoSobreNos{
-    text-align: center;
+    text-align:center;
     border-top: 1px solid #FF7F2B;
 }
 
 .textoCentrado{
-    text-align: center;
+    text-align: justify;
 }
 
 .envieConsultas{
