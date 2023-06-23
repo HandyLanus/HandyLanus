@@ -186,6 +186,17 @@ text-align: center;
     text-decoration:underline;
 }
 
+.textoSobreNos, .textoCentrado, .envieConsultas{
+    width: 90%;
+}
+
+.centrarSobreNos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .containerImg{
     display: flex;
     justify-content: center;
