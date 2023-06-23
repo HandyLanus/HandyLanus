@@ -27,12 +27,8 @@
     align-items: center;
 }
 
-#carouselExample, .carousel-control-prev, .carousel-control-next{
+.paddingCarousel{
     padding-top: 190px;
-}
-
-.carouselIndividual{
-    padding: 0!important;
 }
 
 .linkActivo{
