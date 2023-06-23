@@ -31,6 +31,10 @@
     padding-top: 190px;
 }
 
+.carouselIndividual{
+    padding: 0!important;
+}
+
 .linkActivo{
     color: #FF7F2B!important;
 }
