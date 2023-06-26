@@ -194,6 +194,10 @@ text-align: center;
     width: 90%;
 }
 
+.envieConsSobreNos{
+    text-align: center;
+}
+
 .centrarSobreNos{
     display: flex;
     flex-direction: column;
