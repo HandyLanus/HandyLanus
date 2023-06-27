@@ -3,6 +3,10 @@
     background-color: white!important;
 }
 
+/* .sectionPC{
+    display: none;
+} */
+
 .containerLogoTit{
     display: flex;
     justify-content: center;
@@ -283,4 +287,12 @@ text-align: center;
         padding-top: 0;
         height: 130px;
     }
+
+    /* .sectionMobile{
+        display: none;
+    }
+
+    .sectionPC{
+        display: flex;
+    } */
   }
