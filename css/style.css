@@ -199,6 +199,14 @@ text-align: center;
     width: 90%;
 }
 
+.textoServicioTec{
+    width: 94%;
+}
+
+.marginServTec{
+    margin-bottom: 10px;
+}
+
 .envieConsSobreNos{
     text-align: center;
 }
