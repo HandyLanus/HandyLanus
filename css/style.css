@@ -295,4 +295,9 @@ text-align: center;
     .sectionPC{
         display: flex;
     } */
+
+    .imgSobreNos{
+        margin-top: 30px;
+        width: 700px;
+    }
   }
