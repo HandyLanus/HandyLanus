@@ -247,3 +247,40 @@ text-align: center;
     text-align: center;
     width: 350px;
 }
+
+/* Inicio de vista DESKTOP */
+
+@media (min-width: 1281px) {
+  
+    .headerFixed{
+        display: block;
+        position:relative;
+    }
+
+    .col-lg-6{
+        width: 100%;
+    }
+
+    .navbar-collapse{
+        justify-content: center;
+    }
+
+    .nav-link{
+        margin-left: 40px;
+    }
+
+    .paddingCarousel{
+        padding-top: 0;
+    }
+    
+    .containerCards, .containerCardsProductos {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    .sectionBlack{
+        padding-top: 0;
+        height: 130px ;
+    }
+  }
