@@ -73,9 +73,11 @@
     margin-top: 10px;
 }
 
-.titConsultas{
+.card-title{
     font-family: 'Oswald', sans-serif;
-    font-weight: 700;
+    font-weight:700;
+    font-size: 20px;
+    text-transform: uppercase;
 }
 
 .containerRedesSociales{
