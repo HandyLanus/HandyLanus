@@ -73,6 +73,10 @@
     margin-top: 10px;
 }
 
+.titConsultas{
+    font-family: 'Oswald', sans-serif;
+}
+
 .containerRedesSociales{
     width: 95%;
     display: flex;
@@ -116,7 +120,7 @@ text-align: center;
 
 .respDias , .respHoras , .respWhatsapp{
     color: #FF7F2B;
-    padding-left: 15px;
+    padding-left: 5px;
 }
 
 .whatsapp {
@@ -151,7 +155,6 @@ text-align: center;
 
 .tituloSobreNosotros{
     margin: 0;
-    font-family: 'Oswald', sans-serif;
     font-weight:700;
     color: white;
     height: 100%;
@@ -185,7 +188,6 @@ text-align: center;
 }
 
 .textoSobreNos{
-    font-family: 'Oswald', sans-serif;
     text-align:justify;
     border-top: 1px solid #FF7F2B;
 }
@@ -195,7 +197,6 @@ text-align: center;
 }
 
 .textoCentrado{
-    font-family: 'Oswald', sans-serif;
     text-align: justify;
 }
 
