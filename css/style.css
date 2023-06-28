@@ -1,15 +1,9 @@
 .body{
-    background-image: url(https://img.freepik.com/foto-gratis/concreto-texturado-blanco_125540-1826.jpg?w=900&t=st=1687968538~exp=1687969138~hmac=0c6d1740f67e5811d94151453eca4f938f92136d3f59f38e312b3c1a46d619cf);
-    background-repeat: no-repeat;
+    background-image: url(blob:https://web.whatsapp.com/4d029e1b-f46f-41ba-ab22-d4073e73b8b9);
 }
 
-.width100{
+.width100, .bg-body-tertiary{
     padding: 0;
-}
-
-.contenedorNavHamb{
-    background-image: url(https://img.freepik.com/foto-gratis/concreto-texturado-blanco_125540-1826.jpg?w=900&t=st=1687968538~exp=1687969138~hmac=0c6d1740f67e5811d94151453eca4f938f92136d3f59f38e312b3c1a46d619cf);
-    background-repeat: no-repeat;
 }
 
 .bg-body-tertiary {
@@ -24,8 +18,8 @@
 .containerLogoTit{
     display: flex;
     justify-content: center;
-    background-image: url(https://img.freepik.com/foto-gratis/concreto-texturado-blanco_125540-1826.jpg?w=900&t=st=1687968538~exp=1687969138~hmac=0c6d1740f67e5811d94151453eca4f938f92136d3f59f38e312b3c1a46d619cf);
-    background-repeat: no-repeat;
+    background-image: url(../img/backgroundTexturized.jpg);
+
 }
 
 .headerFixed{
