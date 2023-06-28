@@ -321,8 +321,14 @@ text-align: center;
     .nav-link{
         margin-left: 40px;
     }
+    
+    .containerCardsInicio{
+        position: relative;
+        bottom: 100px;
+    }
 
     .paddingCarousel{
+        border-bottom: 5px solid #FF7F2B;
         padding-top: 0;
     }
     
