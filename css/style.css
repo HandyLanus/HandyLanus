@@ -1,3 +1,8 @@
+.body{
+    background-image: url(https://img.freepik.com/foto-gratis/concreto-texturado-blanco_125540-1826.jpg?w=900&t=st=1687968538~exp=1687969138~hmac=0c6d1740f67e5811d94151453eca4f938f92136d3f59f38e312b3c1a46d619cf);
+    background-repeat: no-repeat;
+}
+
 .bg-body-tertiary {
     --bs-bg-opacity: 1;
     background-color: white!important;
@@ -304,9 +309,6 @@ text-align: center;
 
     .width100{
         width: 100%;
-        padding: 0!important;
-        background-image: url(https://img.freepik.com/foto-gratis/concreto-texturado-blanco_125540-1826.jpg?w=900&t=st=1687968538~exp=1687969138~hmac=0c6d1740f67e5811d94151453eca4f938f92136d3f59f38e312b3c1a46d619cf);
-        background-repeat: no-repeat;
     }
 
     .navbar-collapse{
