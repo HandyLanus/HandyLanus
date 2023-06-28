@@ -151,6 +151,8 @@ text-align: center;
 
 .tituloSobreNosotros{
     margin: 0;
+    font-family: 'Oswald', sans-serif;
+    font-weight:700;
     color: white;
     height: 100%;
     display: flex;
