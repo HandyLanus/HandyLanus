@@ -338,7 +338,13 @@ text-align: center;
     }
 
     .cardimgInicio{
+        width: 366px;
+        height: 280px;
         padding: 20px;
+    }
+
+    .cardInicio{
+        width: 23rem!important;
     }
 
     .card{
