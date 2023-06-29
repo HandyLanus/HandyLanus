@@ -170,7 +170,8 @@
 }
 
 footer{
-    background-image: url(../img/fondofooterpng.jpg);
+    background-image: url(../img/fondotexturadoGris.jpg);
+    background-repeat: repeat;
 }
 
 .containerFooter{
