@@ -142,6 +142,13 @@
     z-index: 10;
 }
 
+.paddingBottomImg{
+    justify-content: center;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 370px;
+}
+
 .containerHorarios{
     display: flex;
     justify-content: center;
@@ -406,6 +413,11 @@ footer{
         flex-direction: row;
         justify-content: space-evenly;
         padding-bottom: 10px;
+    }
+
+    .paddingBottomImg{
+        justify-content: center;
+        width: 100%;
     }
 
     .paddingCarousel{
