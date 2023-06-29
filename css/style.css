@@ -365,7 +365,8 @@ text-align: center;
     
     .containerCardsInicio{
         position: relative;
-        bottom: 180px;
+        height: 400px;
+        bottom: 140px;
     }
 
     .containerProductos{
