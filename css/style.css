@@ -22,6 +22,10 @@
 
 }
 
+.carouselExample{
+    padding-top: 5px;
+}
+
 .headerFixed{
     background-color: white;
     position: fixed;
@@ -39,10 +43,6 @@
 .centrarLista{
     display: flex;
     align-items: center;
-}
-
-.carouselIndividual{
-    padding-top: 5px;
 }
 
 .paddingCarousel{
@@ -120,7 +120,7 @@
 .containerRedesSociales{
     width: 95%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .containerTitConsultas{
@@ -132,6 +132,13 @@
     height: 80px;
     background-color: #FF7F2B;
     z-index: 10;
+}
+
+.containerHorarios{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
 .containertitCat{
@@ -166,13 +173,19 @@ footer{
     background-image: url(../img/fondofooterpng.jpg);
 }
 
+.containerFooter{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
 .fa-brands{
     color: #FF7F2B;
 }
 
 .tituloHorariosAtencion{
     margin-top: 20px;
-text-align: center;
+    text-align: center;
 }
 
 .containerFlex{
@@ -256,6 +269,10 @@ text-align: center;
 .textoSobreNos{
     text-align:justify;
     border-top: 1px solid #FF7F2B;
+}
+
+.textoSobreNosotros{
+    color: white;
 }
 
 .carousel-control-next-icon{
