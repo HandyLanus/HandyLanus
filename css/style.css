@@ -41,6 +41,10 @@
     align-items: center;
 }
 
+.carouselIndividual{
+    padding-top: 5px;
+}
+
 .paddingCarousel{
     padding-top: 190px;
 }
