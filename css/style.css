@@ -275,6 +275,11 @@ footer{
     color: white;
 }
 
+.row {
+    --bs-gutter-x: 0;
+}
+
+
 .carousel-control-next-icon{
     color: red;
 }
