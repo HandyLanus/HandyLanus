@@ -349,9 +349,21 @@ text-align: center;
         justify-content: space-around;
     }
 
+    .containerCardsMarcas{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+    }
+
     .sectionBlack{
         padding-top: 0;
         height: 130px;
+    }
+
+    .paddingBottomImg{
+        padding-bottom: 10px;
     }
 
     /* .sectionMobile{
