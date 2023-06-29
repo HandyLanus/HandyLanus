@@ -98,8 +98,8 @@
 .fondoConsultas{
     height: 110px;
     background-image: url(../img/fondoConsultasPng.png);
+    background-repeat: no-repeat;
 }
-
 
 .card-title{
     font-family: 'Oswald', sans-serif;
@@ -335,6 +335,14 @@ text-align: center;
 
     .nav-link{
         margin-left: 40px;
+    }
+
+    .cardimgInicio{
+        padding: 20px;
+    }
+
+    .card{
+        border-color: white;
     }
     
     .containerCardsInicio{
