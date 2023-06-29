@@ -82,8 +82,9 @@
 
 .containerProductos{
     display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     padding-bottom: 10px;
 }
 
@@ -93,6 +94,12 @@
     align-items: center;
     margin-top: 10px;
 }
+
+.fondoConsultas{
+    height: 110px;
+    background-image: url(../img/fondoConsultasPng.png);
+}
+
 
 .card-title{
     font-family: 'Oswald', sans-serif;
@@ -119,27 +126,24 @@
     z-index: 10;
 }
 
-.probandoFlecha{
-    background-color: #FF7F2B;
-    width: 70px;
-    height: 70px;
-    line-height: 70px;
-    transform: rotate(45deg);
-    margin: 0px auto;
-    text-align: center;
-    position: absolute;
-    left: 0;
-    right: 0;
-    z-index: 0;
-    bottom: 120px;
+.containertitCat{
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=1060&t=st=1688047388~exp=1688047988~hmac=07f7d880c3e9a06abf233a1458554e700d80c4760319c9a4eddfcb05e92e1a4f);
+}
+.titCatalogo{
+    padding-top: 15px;
+    color: white;
+    text-transform: uppercase;
 }
 
 .titConsultas{
-    z-index: 5;
+    padding-top: 20px;
+    padding-right: 10px;
+    text-align: center;
 }
 
-.fa-arrow-down{
-    z-index: 2;
+.fa-arrow-up{
+    display: flex;
+    justify-content: center;
 }
 
 .tituloContConsultas{
@@ -338,6 +342,13 @@ text-align: center;
         bottom: 100px;
     }
 
+    .containerProductos{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        padding-bottom: 10px;
+    }
+
     .paddingCarousel{
         border-bottom: 5px solid #FF7F2B;
         padding-top: 0;
@@ -355,16 +366,6 @@ text-align: center;
         justify-content: center;
         align-items: center;
         margin-top: 20px;
-    }
-
-    .containertitCat{
-        background-image: url(https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=1060&t=st=1688047388~exp=1688047988~hmac=07f7d880c3e9a06abf233a1458554e700d80c4760319c9a4eddfcb05e92e1a4f);
-    }
-
-    .titCatalogo{
-        padding-top: 15px;
-        color: white;
-        text-transform: uppercase;
     }
 
     .sectionBlack{
