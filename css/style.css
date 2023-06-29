@@ -365,13 +365,13 @@ text-align: center;
     
     .containerCardsInicio{
         position: relative;
-        bottom: 160px;
+        bottom: 180px;
     }
 
     .containerProductos{
         display: flex;
         flex-direction: row;
-        justify-content: space-around;
+        justify-content: space-evenly;
         padding-bottom: 10px;
     }
 
