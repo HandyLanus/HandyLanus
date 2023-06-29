@@ -76,6 +76,16 @@
     justify-content: center;
 }
 
+.titCatalogo{
+    text-align: center;
+}
+
+.containerProductos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
 .containerConsultas{
     display: flex;
     flex-direction: column;
