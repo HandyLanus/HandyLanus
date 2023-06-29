@@ -2,6 +2,11 @@
     background-image: url(blob:https://web.whatsapp.com/4d029e1b-f46f-41ba-ab22-d4073e73b8b9);
 }
 
+
+.row, .container-fluid {
+    --bs-gutter-x: 0;
+}
+
 .width100, .bg-body-tertiary{
     padding: 0;
 }
@@ -274,10 +279,6 @@ footer{
 
 .textoSobreNosotros{
     color: white;
-}
-
-.row {
-    --bs-gutter-x: 0;
 }
 
 
