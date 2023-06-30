@@ -470,18 +470,31 @@ footer{
         display: flex;
     } */
 
+    .containerNoticias{
+        display: flex;
+        justify-content: space-evenly;
+        padding: 0;
+        margin-top: 10px;
+    }
+
     .imgSobreNos{
         margin-top: 30px;
         width: 700px;
     }
 
-    .probandoBlog{
-        width: 400px;
-    }
-
     .backColorBlog{
         background-image: url(../img/fondoblog.png);
         background-repeat: repeat;
+    }
+
+    .probandoBlog:hover {
+        filter: blur(0.5px);
+        transition: 1s;
+    }
+
+.probandoBlog:hover {
+        -webkit-transform:scale(1.1);transform:scale(1.1);
+        transition: 1s;
     }
 
 }
