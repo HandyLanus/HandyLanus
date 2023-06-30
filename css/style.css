@@ -487,11 +487,6 @@ footer{
         background-repeat: repeat;
     }
 
-    .probandoBlog:hover {
-        filter: blur(0.5px);
-        transition: 1s;
-    }
-
 .probandoBlog:hover {
         -webkit-transform:scale(1.1);transform:scale(1.1);
         transition: 1s;
