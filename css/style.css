@@ -60,6 +60,7 @@
 
 .linkActivo{
     color: #FF7F2B!important;
+    font-weight: bold;
 }
 
 .containerCards, .containerCardsProductos{
