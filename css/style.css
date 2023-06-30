@@ -482,17 +482,22 @@ footer{
         width: 700px;
     }
 
-    .backColorBlog{
+    .backColorBlog, .containerNoticias{
         background-image: url(../img/fondoblog.png);
         background-repeat: repeat;
     }
 
-.probandoBlog:hover {
+    .containerNoticias{
+        padding-bottom: 35px;
+        padding-top: 20px;
+    }
+
+    .probandoBlog:hover {
         -webkit-transform:scale(1.1);transform:scale(1.1);
         transition: 1s;
     }
 
-.probandoBlog:hover {
+    .probandoBlog:hover {
     filter: brightness(60%);
 }
 
