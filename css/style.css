@@ -471,4 +471,9 @@ footer{
         width: 400px;
     }
 
+    .backColorBlog{
+        background-image: url(../img/fondoblog.png);
+        background-repeat: repeat;
+    }
+
 }
