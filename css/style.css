@@ -4,7 +4,7 @@
 
 
 .row, .container-fluid {
-    --bs-gutter-x: 0;
+    --bs-gutter-x: none;
 }
 
 .width100, .bg-body-tertiary{
@@ -31,7 +31,7 @@
     padding-top: 20px;
 }
 
-.carouselExample{
+#carouselExample{
     padding-top: 5px;
 }
 
@@ -433,7 +433,15 @@ footer{
     .containerCards, .containerCardsProductos {
         display: flex;
         flex-direction: row;
-        justify-content: space-around;
+        justify-content: center;
+    }
+
+    .cardInicio1{
+        margin-right: 40px;
+    }
+
+    .cardInicio3{
+        margin-left: 40px;
     }
     
 
