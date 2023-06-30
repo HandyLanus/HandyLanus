@@ -23,7 +23,7 @@
 .containerLogoTit{
     display: flex;
     justify-content: center;
-    background-image: url(../img/backgroundTexturized.jpg);
+    background-image: url(../img/fondoHeaderpng.jpg);
 
 }
 
@@ -500,6 +500,11 @@ footer{
 
     .probandoBlog:hover {
     filter: brightness(80%);
+}
+
+.containerBlogIndex{
+    background-image: url(../img/fondoblog.png);
+    background-repeat: repeat;
 }
 
 }
