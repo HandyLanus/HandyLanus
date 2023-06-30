@@ -492,4 +492,8 @@ footer{
         transition: 1s;
     }
 
+.probandoBlog:hover {
+    filter: brightness(60%);
+}
+
 }
