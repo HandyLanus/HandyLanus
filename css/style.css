@@ -288,7 +288,7 @@ footer{
     background-image: url(https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=360&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%20360w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=740&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%20740w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=826&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%20826w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=900&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%20900w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=996&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%20996w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=1060&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%201060w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=1380&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%201380w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=1480&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%201480w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=1800&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%201800w,%20https://img.freepik.com/vector-gratis/fondo-patron-textura-fibra-carbono-negro_1017-33436.jpg?w=2000&t=st=1687450930~exp=1687451530~hmac=faad5498b9dc14d33affabe93cd67adeec9dce87f5a2c27abbb346dad668e026%202000w);
 }
 
-.tituloSobreNosotros{
+.tituloheavensotros{
     margin: 0;
     font-weight:700;
     color: white;
@@ -320,6 +320,18 @@ footer{
     margin-top: 30px;
     margin-bottom: 10px;
     width: 95%;
+}
+
+.tituloSobreNosotros {
+    margin: 0;
+    font-weight: 700;
+    color: white;
+    height: 100%;
+    display: flex;
+    padding-top: 60px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .textoSobreNos{
@@ -526,6 +538,12 @@ footer{
         width: 700px;
     }
 
+    .ulSobreNos{
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
      .backColorBlog, .containerNoticias{
         background-image: url(../img/fondotexturadotranqui.jpg);
         background-repeat: repeat;
@@ -560,6 +578,11 @@ footer{
     position: relative;
     top: 30px;
     right: 280px;
+}
+
+.eye, .heaven, .heaven2, .heaven3{
+    width: 600px;
+    margin-top: 0;
 }
 
 .eye{
