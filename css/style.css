@@ -23,7 +23,8 @@
 .containerLogoTit{
     display: flex;
     justify-content: center;
-    background-image: url(../img/fondoHeaderpng.jpg);
+    /* background-image: url(../img/fondoHeaderpng.jpg); */
+    background-image: url(../img/degrade\ julio\ 1.jpg);
 
 }
 
@@ -545,24 +546,42 @@ footer{
 }
 
 .containerBlogIndex{
-    height: 550px;
-    background-image: url(../img/fondotexturadotranqui.jpg);
+    height: 700px;
+    /* background-image: url(../img/fondotexturadotranqui.jpg); */
+    background-image: url(../img/fondo\ julio\ 3.jpg);
+}
+
+.containerRevistaBlog{
+    position: relative;
+    top: 30px;
+    right: 280px;
 }
 
 .eye{
     position:absolute;
-    height:400px;
-    width:400px;
+    /* height:400px;
+    width:400px; */
     top: 40px;
-    z-index: 1;
+    z-index: 10;
   }
   
-  .heaven
+  .heaven, .heaven2, .heaven3
   {
     position:absolute;
-    height:400px;
-    width:400px;
+    /* height:400px;
+    width:400px; */
     left : 40px;
+    z-index: 9;
+  }
+
+  .heaven2{
+    z-index: 8;
+    left : 80px;
+  }
+
+  .heaven3{
+    z-index: 7;
+    left : 120px;
   }
 
 }
