@@ -42,7 +42,8 @@
 }
 
 .contenedorNavHamb{
-    justify-content: center!important
+    justify-content: center!important;
+    margin-bottom: 10px;
 }
 
 .bg-body-tertiary{
@@ -203,7 +204,12 @@
 }
 
 .probandoBlog{
+    margin-top: 15px;
     width: 90%;
+}
+
+.ultimaBlog{
+    margin-bottom: 10px;
 }
 
 footer{
