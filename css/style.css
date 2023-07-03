@@ -577,8 +577,18 @@ footer{
     right: 280px;
 }
 
+.titCatalogo{
+    position: relative;
+    bottom: 64px;
+    background-color: #FF7F2B;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 .poniendoFondo{
     background-image: url(../img/probandoFondoComplementario2.jpg);
+
 }
 
 }
