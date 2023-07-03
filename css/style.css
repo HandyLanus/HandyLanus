@@ -193,6 +193,19 @@
     font-weight: bold;
 }
 
+.containerNoticias{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.probandoBlog{
+    width: 90%;
+}
+
 footer{
     background-image: url(../img/fondotexturadoGris.jpg);
     background-repeat: repeat;
@@ -478,6 +491,7 @@ footer{
     .containerNoticias{
         display: flex;
         justify-content: space-evenly;
+        flex-direction: row;
         padding: 0;
         margin-top: 10px;
     }
@@ -495,6 +509,11 @@ footer{
     .containerNoticias{
         padding-bottom: 35px;
         padding-top: 20px;
+    }
+
+    .probandoBlog{
+        width: 500px;
+        height: 550px;
     }
 
     .probandoBlog:hover {
