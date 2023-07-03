@@ -515,11 +515,6 @@ footer{
         margin-top: 10px;
     }
 
-    .containerNoticiasIndex{
-        margin-top: 30px;
-        padding-bottom: 20px;
-    }
-
     .imgSobreNos{
         margin-top: 30px;
         width: 700px;
@@ -550,7 +545,24 @@ footer{
 }
 
 .containerBlogIndex{
+    height: 550px;
     background-image: url(../img/fondotexturadotranqui.jpg);
 }
+
+.eye{
+    position:absolute;
+    height:400px;
+    width:400px;
+    top: 40px;
+    z-index: 1;
+  }
+  
+  .heaven
+  {
+    position:absolute;
+    height:400px;
+    width:400px;
+    left : 40px;
+  }
 
 }
