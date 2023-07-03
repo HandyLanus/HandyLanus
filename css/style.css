@@ -208,7 +208,7 @@
     margin-top: 10px;
 }
 
-.probandoBlog{
+.probandoBlog, .probandoBlogIndex{
     margin-top: 15px;
     width: 90%;
 }
@@ -516,6 +516,11 @@ footer{
         margin-top: 10px;
     }
 
+    .containerNoticiasIndex{
+        margin-top: 30px;
+        padding-bottom: 20px;
+    }
+
     .imgSobreNos{
         margin-top: 30px;
         width: 700px;
@@ -536,12 +541,12 @@ footer{
         height: 550px;
     }
 
-    .probandoBlog:hover {
+    .probandoBlog:hover, .probandoBlogIndex:hover {
         -webkit-transform:scale(1.1);transform:scale(1.1);
         transition: 1s;
     }
 
-    .probandoBlog:hover {
+    .probandoBlog:hover, .probandoBlogIndex:Hover {
     filter: brightness(80%);
 }
 
