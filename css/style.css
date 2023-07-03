@@ -23,8 +23,7 @@
 .containerLogoTit{
     display: flex;
     justify-content: center;
-    /* background-image: url(../img/fondoHeaderpng.jpg); */
-    background-color: red;
+    background-image: url(../img/fondoHeaderpng.jpg);
 
 }
 
@@ -37,6 +36,7 @@
 }
 
 .headerFixed{
+    width: 100%;
     background-color: white;
     position: fixed;
     z-index: 1;
@@ -415,8 +415,9 @@ footer{
     }
 
     .nav-link:hover{
-        color: red;
+        color: red!important;
     }
+
 
     .cardimgInicio{
         width: 366px;
