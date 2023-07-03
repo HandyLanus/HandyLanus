@@ -23,7 +23,8 @@
 .containerLogoTit{
     display: flex;
     justify-content: center;
-    background-image: url(../img/fondoHeaderpng.jpg);
+    /* background-image: url(../img/fondoHeaderpng.jpg); */
+    background-color: red;
 
 }
 
@@ -411,6 +412,10 @@ footer{
 
     .nav-link{
         margin-left: 40px;
+    }
+
+    .nav-link:hover{
+        color: red;
     }
 
     .cardimgInicio{
