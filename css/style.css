@@ -117,6 +117,10 @@
     background-image: url(../img/fondo\ julio\ 3.jpg);
 }
 
+.containerNoticiasIndex{
+    margin-top: 40px;
+}
+
 .containerConsultas{
     display: flex;
     flex-direction: column;
@@ -567,7 +571,7 @@ footer{
 }
 
 .containerBlogIndex{
-    height: 600px;
+    height: 550px;
     /* background-image: url(../img/fondotexturadotranqui.jpg); */
     background-image: url(../img/fondo\ julio\ 3.jpg);
 }
@@ -585,6 +589,19 @@ footer{
     color: white;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.cardCatalogo{
+    position: relative;
+    bottom: 30px;
+}
+
+.tituloBlogIndex{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
 }
 
 .poniendoFondo{
