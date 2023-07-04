@@ -127,7 +127,7 @@
 }
 
 .carousel-control-next-icon,.carousel-control-prev-icon{
-    background-color: rgba(255, 127, 43, 0.3);
+    background-color: rgba(255, 127, 43, 1);
     border-radius: 100%;
 }
 
@@ -603,8 +603,7 @@ footer{
 }
 
 .containerLineaCatalogo{
-    /* box-shadow: 0 -5px 10px -5px black; */
-    box-shadow: inset 0px 6px 8px -6px white;
+    box-shadow: 0 -5px 10px -5px black;
     display: flex;
     justify-content: center;
     border-top: 5px solid #FF7F2B;
@@ -612,7 +611,6 @@ footer{
 }
 
 .titCatalogo{
-    box-shadow:  0px 6px 8px -6px white;
     width: 270px;
     text-align: center;
     font-family: 'Oswald', sans-serif;
