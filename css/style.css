@@ -476,6 +476,7 @@ footer{
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
+        padding-top: 50px;
         padding-bottom: 20px;
     }
 
@@ -597,9 +598,8 @@ footer{
 .containerLineaCatalogo{
     display: flex;
     justify-content: center;
-    border-bottom: 5px solid #FF7F2B;
+    border-top: 5px solid #FF7F2B;
     position: relative;
-    bottom: 58px;
 }
 
 .titCatalogo{
@@ -614,8 +614,8 @@ footer{
     padding-bottom: 10px;
     padding-left: 30px;
     padding-right: 30px;
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
 }
 
 .containerLineaBlog{
