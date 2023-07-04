@@ -191,6 +191,7 @@
 }
 
 .titConsultas{
+    color: white;
     padding-right: 0.8%;
     font-weight: bold;
     margin-top: 25px;
@@ -605,15 +606,15 @@ footer{
 
 .titCatalogo{
     box-shadow: 0px 10px 10px -6px black;
-    width: 21%;
+    width: 268px;
     text-align: center;
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
     margin-bottom: 0;
     background-color: #FF7F2B;
     color: white;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
     padding-left: 30px;
     padding-right: 30px;
     border-bottom-left-radius: 8px;
@@ -621,6 +622,7 @@ footer{
 }
 
 .containerLineaBlog{
+    box-shadow: inset 0px 10px 10px -6px black;
     display: flex;
     justify-content: center;
     border-top: 5px solid #FF7F2B;
@@ -629,15 +631,15 @@ footer{
 
 .tituloBlogIndex{
     box-shadow: 0px 10px 10px -6px black;
-    width: 21%;
+    width: 268px;
     text-align: center;
     font-weight: 700;
     text-transform: uppercase;
     margin-bottom: 0;
     background-color: #FF7F2B;
     color: white;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
     padding-left: 30px;
     padding-right: 30px;
     border-bottom-left-radius: 8px;
@@ -661,12 +663,12 @@ footer{
 }
 
 .fondoConsultas{
-    padding-top: 60px;
+    padding-top: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 60px;
+    height: 50px;
     background-color: #FF7F2B;
 }
 
@@ -674,13 +676,13 @@ footer{
     padding-right: 0.8%;
     font-weight: bold;
     margin-top: 25px;
-    padding-top: 45px;
+    padding-top: 55px;
     text-align: center;
 }
 
 .diamante{
     position: relative;
-    bottom: 10px;
+    bottom: 20px;
 }
 
 .fa-arrow-up{
