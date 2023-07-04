@@ -593,15 +593,15 @@ footer{
     justify-content: center;
     border-bottom: 5px solid #FF7F2B;
     position: relative;
-    bottom: 63px;
+    bottom: 59px;
 }
 
 .titCatalogo{
     margin-bottom: 0;
     background-color: #FF7F2B;
     color: white;
-    padding-top: 14px;
-    padding-bottom: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     padding-left: 30px;
     padding-right: 30px;
     border-top-left-radius: 8px;
