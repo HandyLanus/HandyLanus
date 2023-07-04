@@ -665,6 +665,7 @@ footer{
 }
 
 .fondoConsultas{
+    box-shadow: 0 -5px 10px -5px black;
     padding-top: 50px;
     display: flex;
     flex-direction: column;
