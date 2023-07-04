@@ -252,6 +252,7 @@ footer{
 
 .containerFlex{
     display: flex;
+    justify-content: flex-start;
 }
 
 .tituloHorariosAtencion, .titLunaVier, .sabyDom, .whatsappFooter{
@@ -602,6 +603,8 @@ footer{
 }
 
 .titCatalogo{
+    width: 21%;
+    text-align: center;
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
     margin-bottom: 0;
@@ -623,6 +626,8 @@ footer{
 }
 
 .tituloBlogIndex{
+    width: 21%;
+    text-align: center;
     font-weight: 700;
     text-transform: uppercase;
     margin-bottom: 0;
@@ -634,6 +639,11 @@ footer{
     padding-right: 30px;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
+}
+
+.btnColorAzul{
+    border: #4372B9;
+    background-color: #4372B9;
 }
 
 .cardCatalogo{
