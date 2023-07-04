@@ -65,6 +65,7 @@
 
 .linkActivo{
     color: #FF7F2B!important;
+    border-bottom: 1px solid #FF7F2B;
     font-weight: bold;
 }
 
