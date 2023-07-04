@@ -126,6 +126,11 @@
     margin-top: 40px;
 }
 
+.carousel-control-next-icon,.carousel-control-prev-icon{
+    background-color: rgba(255, 127, 43, 0.3);
+    border-radius: 100%;
+}
+
 .containerConsultas{
     display: flex;
     flex-direction: column;
