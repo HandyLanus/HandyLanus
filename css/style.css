@@ -519,14 +519,6 @@ footer{
         padding-bottom: 10px;
     }
 
-    /* .sectionMobile{
-        display: none;
-    }
-
-    .sectionPC{
-        display: flex;
-    } */
-
     .containerNoticias{
         display: flex;
         justify-content: space-evenly;
@@ -561,6 +553,10 @@ footer{
         height: 550px;
     }
 
+    .imagenesBlogIndex{
+        width: 450px;
+    }
+
     .probandoBlog:hover, .probandoBlogIndex:hover,.imagenesBlogIndex:hover {
         -webkit-transform:scale(1.1);transform:scale(1.1);
         transition: 1s;
@@ -570,8 +566,13 @@ footer{
     filter: brightness(80%);
 }
 
+.imagenesBlogIndex{
+    margin-top: 25px;
+    width: 450px;
+}
+
 .containerBlogIndex{
-    height: 550px;
+    height: 700px;
     /* background-image: url(../img/fondotexturadotranqui.jpg); */
     background-image: url(../img/fondo\ julio\ 3.jpg);
 }
