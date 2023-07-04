@@ -533,6 +533,14 @@ footer{
         padding-bottom: 10px;
     }
 
+    .marginPrevIndex{
+        margin-right: 80px!important;
+    }
+
+    .marginNextIndex{
+        margin-left: 80px!important;
+    }
+
     .containerNoticias{
         display: flex;
         justify-content: space-evenly;
