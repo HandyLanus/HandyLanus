@@ -457,6 +457,7 @@ footer{
     }
 
     .cardInicio{
+        box-shadow: 0px 10px 10px -6px black;
         width: 23rem!important;
     }
 
