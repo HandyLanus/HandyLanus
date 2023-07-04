@@ -655,7 +655,35 @@ footer{
     /* background-image: url(../img/probandoFondoComplementario2.jpg); */
     /* background-image: url(../img/probandofondo9dejulio.jpg); */
     background-image: url(../img/probandofondojulio10.jpg);
-
 }
+
+.fondoConsultas{
+    padding-top: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    background-color: #FF7F2B;
+}
+
+.titConsultas{
+    padding-right: 0.8%;
+    font-weight: bold;
+    margin-top: 25px;
+    padding-top: 45px;
+    text-align: center;
+}
+
+.diamante{
+    position: relative;
+    bottom: 10px;
+}
+
+.fa-arrow-up{
+    z-index: 10;
+}
+
+
 
 }
