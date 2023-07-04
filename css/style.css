@@ -599,7 +599,7 @@ footer{
 
 .containerLineaCatalogo{
     /* box-shadow: 0 -5px 10px -5px black; */
-    box-shadow: inset 0px 10px 10px -6px white;
+    box-shadow: inset 0px 6px 8px -6px white;
     display: flex;
     justify-content: center;
     border-top: 5px solid #FF7F2B;
