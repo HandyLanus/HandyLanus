@@ -612,14 +612,10 @@ footer{
 
 .containerLineaCatalogo{
     box-shadow: 0 -5px 10px -5px black;
-    /* display: flex; */
+    display: flex;
     justify-content: center;
     border-top: 5px solid #FF7F2B;
     position: relative;
-}
-
-.logoMarcas{
-    width: 50px;
 }
 
 .titCatalogo{
@@ -709,15 +705,28 @@ footer{
 
 
 .ulCatalogo{
+    margin-bottom: 0px;
     list-style-type: none;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
+    padding: 0;
 }
 
 .logoMarcas{
     width: 120px;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.containerMarcasIndex{
+    /* display: flex; */
+    justify-content: center;
+    position: relative;
+}
+
+
+.logoMarcas{
+    width: 160px;
 }
 
 }
