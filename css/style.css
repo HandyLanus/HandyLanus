@@ -117,6 +117,10 @@
     background-image: url(../img/fondo\ julio\ 3.jpg);
 }
 
+.imagenesBlogIndex{
+    width: 90%;
+}
+
 .containerNoticiasIndex{
     margin-top: 40px;
 }
