@@ -690,17 +690,18 @@ footer{
     padding-right: 0.8%;
     font-weight: bold;
     margin-top: 25px;
-    padding-top: 55px;
+    padding-top: 70px;
     text-align: center;
 }
 
 .diamante{
     position: relative;
-    bottom: 20px;
+    bottom: 30px;
 }
 
 .fa-arrow-up{
     z-index: 10;
+    top: 0;
 }
 
 
@@ -727,6 +728,7 @@ footer{
 
 .logoMarcas{
     width: 160px;
+    margin-left: 25px;
 }
 
 .animacionLogo:hover{
@@ -735,6 +737,11 @@ footer{
     transform: rotateY(360deg);
     transform-style: preserve-3d;
     transition: 2s;
+}
+
+.divContainerCat{
+    display: flex;
+    justify-content: center;
 }
 
 }
