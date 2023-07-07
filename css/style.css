@@ -695,6 +695,10 @@ footer{
     border-bottom-right-radius: 8px;
 }
 
+.listaSobreNos, .letraNegrita{
+    font-weight: bold;
+}
+
 .containerLineaBlog{
     box-shadow: inset 0px 10px 10px -6px black;
     display: flex;
