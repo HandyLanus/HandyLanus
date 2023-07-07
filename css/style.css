@@ -96,6 +96,14 @@
     margin-top: 20px;
 }
 
+.containerFlex{
+    width: 100%;
+    text-align: justify;
+    align-items: center;
+    justify-content: center;
+    padding-left: 27%;
+}
+
 .containerLeerMas{
     display: flex;
     justify-content: center;
