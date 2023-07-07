@@ -220,8 +220,8 @@
     text-align: center;
 }
 
-.titConsultas:hover{
-    color: red;
+.titConsultas:hover, .tituloBlogIndex:hover, .titCatalogo:hover{
+    color: black;
 }
 
 .ulCatalogo{
@@ -658,7 +658,6 @@ footer{
 .titCatalogo{
     width: 270px;
     text-align: center;
-    font-family: 'Oswald', sans-serif;
     font-weight: 700;
     margin-bottom: 0;
     background-color: #FF7F2B;
