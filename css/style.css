@@ -233,6 +233,10 @@
     width: 60px;
 }
 
+.imagenesBlogIndex{
+    padding-top: 15px;
+}
+
 .fa-arrow-up{
     position: relative;
     top: 10px;
