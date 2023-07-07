@@ -412,6 +412,10 @@ footer{
     padding-right: 5px;
 }
 
+.fondoSobreNosotrosTexturado{
+    background-image: url(../img/fondo\ julio\ 3.jpg);
+}
+
 .textoSobreNosotros{
     color: white;
 }
@@ -613,11 +617,10 @@ footer{
         width: 700px;
     }
 
-    /* .ulSobreNos{
+    .ulSobreNos{
         width: 100%;
-        display: flex;
-        justify-content: space-evenly;
-    } */
+        padding-left: 6%;
+    }
 
      .backColorBlog, .containerNoticias{
         background-image: url(../img/fondo\ julio\ 3.jpg);
