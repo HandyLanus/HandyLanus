@@ -764,8 +764,14 @@ footer{
 }
 
 .fa-arrow-up{
+    color: white;
     z-index: 10;
-    top: 0;
+    position: relative;
+    top: 7px;
+}
+
+.containerSobreNosotros{
+    padding-right: 60px;
 }
 
 .textoSobreNos{
