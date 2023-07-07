@@ -493,7 +493,7 @@ footer{
 
 /* Inicio de vista DESKTOP */
 
-@media (min-width: 1281px) {
+@media (min-width: 1200px) {
   
     .headerFixed{
         display: block;
