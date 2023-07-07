@@ -220,6 +220,19 @@
     text-align: center;
 }
 
+.ulCatalogo{
+    margin-bottom: 0px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0;
+}
+
+.logoMarcas{
+    list-style-type: none;
+    width: 60px;
+}
+
 .fa-arrow-up{
     position: relative;
     top: 10px;
