@@ -1,5 +1,6 @@
-.body{
-    background-image: url(blob:https://web.whatsapp.com/4d029e1b-f46f-41ba-ab22-d4073e73b8b9);
+body{
+    /* background-image: url(blob:https://web.whatsapp.com/4d029e1b-f46f-41ba-ab22-d4073e73b8b9)!important; */
+    background-image: url(../img/fondo\ julio\ 3.jpg);
 }
 
 
@@ -492,12 +493,6 @@ footer{
     margin: 8px;
 }
 
-.containertextContacto{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-}
-
 .textoContacto{
     text-align: center;
     width: 350px;
@@ -611,7 +606,7 @@ footer{
     .paddingBottomImg{
         padding: 0;
         margin-bottom: 10px;
-        box-shadow: 0px 0px 10px 4px black;
+        box-shadow: 0px 0px 10px 2px black;
     }
 
     .marginPrevIndex{
@@ -638,6 +633,21 @@ footer{
     .ulSobreNos{
         width: 100%;
         padding-left: 6%;
+    }
+
+    .textoContainerTarj{
+        padding-left: 10px;
+        margin-bottom: 5px;
+        text-align: justify;
+    }
+
+    .ulSobreNos{
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .envieConsultas{
+        padding-top: 5px;
     }
 
      .backColorBlog, .containerNoticias{
@@ -850,6 +860,28 @@ footer{
 .divContainerCat{
     display: flex;
     justify-content: center;
+}
+
+.containerForm{
+    width: 96%;
+    height: 450px;
+    box-shadow: 0px 0px 10px 2px black;
+    margin-top: 10px;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.enviarMensaje{
+    text-align: center;
+    padding-left: 0;
+}
+
+.form-control{
+    background-color: rgba(255, 255, 255, 0.7)
 }
 
 }
