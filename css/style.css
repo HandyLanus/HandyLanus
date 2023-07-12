@@ -378,9 +378,14 @@ footer{
 }
 
 .inicioNosotros{
+    text-decoration: none;
     color: white;
     padding-bottom: 5px;
-    padding-left: 15px;
+    padding-left: 3px;
+}
+
+.inicioNosotros:hover{
+    color: red;
 }
 
 .colorOrange{
