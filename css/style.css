@@ -507,12 +507,16 @@ footer{
     width: 350px;
 }
 
+.cardOrange{
+    background-color: rgba(255, 127, 43, 0.1);
+}
+
 .cardBackColor{
-    border: 10px solid rgba(255, 127, 43, 0.8);
+    border: 10px solid rgba(255, 127, 43, 0.5);
 }
 
 .cardBodyColor{
-    background-color: rgba(255, 127, 43, 0.8);
+    background-color: rgba(255, 127, 43, 0.5);
 }
 
 
