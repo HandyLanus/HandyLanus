@@ -84,7 +84,11 @@ body{
 }
 
 .sombraCarrouselProd{
-    box-shadow: 0px 0px 10px 2px rgb(34, 30, 30)!important;
+    box-shadow: 0px 0px 10px 2px rgb(34, 30, 30);
+}
+
+.TitCarrouselProd{
+    color: #FF7F2B;
 }
 
 .btn-primary{
