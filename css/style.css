@@ -967,4 +967,14 @@ form{
     background-color: rgba(255, 255, 255, 0.7)
 }
 
+.containerNuestrosClientes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.cardImgClientes{
+    margin-top: 60px;
+}
+
 }
