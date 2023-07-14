@@ -88,6 +88,8 @@ body{
 }
 
 .TitCarrouselProd{
+    position: relative;
+    top: 25px;
     color: #FF7F2B;
 }
 
