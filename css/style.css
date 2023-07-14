@@ -83,6 +83,10 @@ body{
     padding-top: 40px;
 }
 
+.sombraCarrouselProd{
+    box-shadow: 0px 0px 10px 2px rgb(34, 30, 30)!important;
+}
+
 .btn-primary{
     box-shadow: 0px 1px 7px 0px black;
     border-color:#FF7F2B;
@@ -506,7 +510,7 @@ footer{
 
 .cardOrange{
     background-color: rgba(255, 127, 43, 0.1);
-    box-shadow: 0px 0px 10px 5px white;
+    box-shadow: 0px 0px 10px 2px black;
 }
 
 .cardBackColor{
