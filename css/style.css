@@ -460,6 +460,7 @@ footer{
 }
 
 .textoSobreNosotros{
+    text-align: center;
     color: white;
     padding-left: 5px;
     padding-right: 5px;
