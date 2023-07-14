@@ -462,10 +462,6 @@ footer{
     width: 90%;
 }
 
-.textoServicioTec{
-    width: 94%;
-}
-
 .marginServTec{
     margin-bottom: 10px;
 }
@@ -519,6 +515,13 @@ footer{
 
 .cardBodyColor{
     background-color: rgba(255, 127, 43, 0.5);
+}
+
+
+.textoServicioTec{
+    width: 94%;
+    padding-top: 15px;
+    margin-bottom: 15px;
 }
 
 
@@ -681,7 +684,7 @@ footer{
     .containerTextosTarjeta{
         box-shadow: 0px 0px 10px 2px black;
         border-radius: 15px;
-        padding: 5px;
+        padding: 30px;
         margin-right: 30px;
         background-color: rgba(255, 255, 255, 0.7)
     }
@@ -861,6 +864,11 @@ footer{
     margin-bottom: 5px;
 }
 
+.textoServicioTec{
+    width: 94%;
+    padding-top: 15px;
+    margin-bottom: 15px;
+}
 
 .ulCatalogo{
     margin-bottom: 0px;
