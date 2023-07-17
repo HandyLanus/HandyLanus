@@ -570,6 +570,9 @@ footer{
     font-size: 18px;
 }
 
+.form-label{
+    font-weight: bold;
+}
 
 /* Inicio de vista DESKTOP */
 
