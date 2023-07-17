@@ -559,6 +559,12 @@ footer{
     box-shadow: 0px 0px 10px 5px grey;
 }
 
+.tituloCardClientes{
+    color: #FF7F2B;
+    font-weight: bolder;
+    text-shadow: 1px 1px 10px black;
+}
+
 
 /* Inicio de vista DESKTOP */
 
