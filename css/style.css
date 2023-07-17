@@ -564,9 +564,9 @@ footer{
 }
 
 .tituloCardClientes{
-    color: #FF7F2B;
+    color: white;
     font-weight: bolder;
-    /* text-shadow: 1px 1px 10px black; */
+    text-shadow: 1px 1px 10px #FF7F2B;
     font-size: 18px;
 }
 
