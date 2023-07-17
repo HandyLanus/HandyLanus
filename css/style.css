@@ -539,11 +539,24 @@ footer{
     background-color: rgba(255, 127, 43, 0.5);
 }
 
+.cardBackColorClient{
+    background-color: grey;
+}
+
+.cardGreyClient{
+    border: 10px solid grey;
+}
+
 
 .textoServicioTec{
     width: 94%;
     padding-top: 15px;
     margin-bottom: 15px;
+}
+
+.cardImgClientes{
+    border-color: grey;
+    box-shadow: 0px 0px 10px 5px grey;
 }
 
 
