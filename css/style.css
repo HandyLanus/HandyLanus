@@ -422,7 +422,7 @@ footer{
 .imgSobreNos{
     margin-top: 30px;
     margin-bottom: 30px;
-    margin-left: 30px;
+    margin-left: 50px;
 }
 
 .tituloSobreNosotros {
@@ -551,11 +551,11 @@ footer{
     border: 10px solid 	rgba(128, 128, 128, 0.6);
 }
 
-
 .textoServicioTec{
     width: 94%;
     padding-top: 15px;
     margin-bottom: 15px;
+    margin-right: 30px;
 }
 
 .cardImgClientes{
