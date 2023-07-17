@@ -544,11 +544,11 @@ footer{
 }
 
 .cardBackColorClient{
-    background-color: rgba(128, 128, 128, 0.6);
+    background-color: rgba(128, 128, 128, 0.4);
 }
 
 .cardGreyClient{
-    border: 10px solid 	rgba(128, 128, 128, 0.6);
+    border: 10px solid 	rgba(128, 128, 128, 0.4);
 }
 
 .textoServicioTec{
