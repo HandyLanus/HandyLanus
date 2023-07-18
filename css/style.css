@@ -1022,6 +1022,11 @@ form{
     justify-content: space-evenly;
 }
 
+.hoverCardClient:hover{
+    -webkit-transform:scale(1.1);transform:scale(1.1);
+    transition: 1s;
+}
+
 .cardImgClientes{
     margin-top: 60px;
 }
