@@ -846,11 +846,13 @@ footer{
     display: flex;
     justify-content: center;
     box-shadow: 0px 10px 10px -6px black;
-    width: 185px;
+    width: 150px;
+    padding-bottom: 5px;
+    padding-top: 5px;
 }
 
 .titClientesBoton{
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .listaSobreNos, .letraNegrita{
