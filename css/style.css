@@ -822,13 +822,6 @@ footer{
     position: relative;
 }
 
-.containerModClientes{
-    padding-left: 50px;
-    padding-right: 50px;
-    box-shadow: inset 0px 10px 10px -6px black;
-    justify-content: space-evenly;
-}
-
 .titCatalogo{
     width: 270px;
     text-align: center;
@@ -842,19 +835,6 @@ footer{
     padding-right: 30px;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
-}
-
-.modificacionesClientes{
-    display: flex;
-    justify-content: center;
-    box-shadow: 0px 10px 10px -6px black;
-    width: 150px;
-    padding-bottom: 5px;
-    padding-top: 5px;
-}
-
-.titClientesBoton{
-    font-size: 14px;
 }
 
 .listaSobreNos, .letraNegrita{
