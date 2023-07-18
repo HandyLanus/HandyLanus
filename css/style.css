@@ -823,6 +823,8 @@ footer{
 }
 
 .containerModClientes{
+    padding-left: 50px;
+    padding-right: 50px;
     box-shadow: inset 0px 10px 10px -6px black;
     justify-content: space-evenly;
 }
