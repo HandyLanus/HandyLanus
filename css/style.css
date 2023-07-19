@@ -583,6 +583,28 @@ footer{
     font-weight: bold;
 }
 
+.containerDerechosReservados{
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    background-color: rgb(105, 100, 100);
+    box-shadow: inset 0px 0px 2px 1px #000000e1;
+}
+
+.colLgDerechos{
+    text-align: center;
+}
+
+.rowDerechos{
+    width: 100%; 
+    display: flex; 
+    align-items: center;
+}
+
+.textoDerechos, .textoDesarrollo{
+    color: #a09f9f;
+}
+
 /* Inicio de vista DESKTOP */
 
 @media (min-width: 1200px) {
