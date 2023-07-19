@@ -117,10 +117,8 @@ body{
 
 .containerFlex{
     width: 100%;
-    text-align: justify;
     align-items: center;
     justify-content: center;
-    padding-left: 27%;
 }
 
 .containerLeerMas{
@@ -317,10 +315,6 @@ footer{
     margin: 0;
 }
 
-.containerFlex{
-    padding-left: 21%;
-}
-
 .containerFooter{
     margin-top: 30px;
     display: flex;
@@ -340,7 +334,6 @@ footer{
 
 .containerFlex{
     display: flex;
-    justify-content: flex-start;
 }
 
 .tituloHorariosAtencion, .titLunaVier, .sabyDom, .whatsappFooter{
@@ -613,10 +606,6 @@ footer{
 
     .nav-link{
         margin-left: 40px;
-    }
-
-    .containerFlex{
-        padding-left: 26.8%;
     }
 
     .nav-link:hover{
@@ -898,6 +887,10 @@ footer{
     align-items: center;
     height: 50px;
     background-color: #FF7F2B;
+}
+
+.titLunaVier, .sabyDom, .respDias, .respHoras, .respWhatsapp{
+    margin-bottom: 10px;
 }
 
 .titConsultas{
