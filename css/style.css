@@ -603,6 +603,15 @@ footer{
 
 .textoDerechos, .textoDesarrollo{
     color: #a09f9f;
+    font-size: 13px;
+}
+
+.textoDerechos{
+    padding-right: 190px;
+}
+
+.textoDesarrollo{
+    padding-left: 230px;
 }
 
 /* Inicio de vista DESKTOP */
