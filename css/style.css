@@ -548,6 +548,10 @@ footer{
     border: 10px solid 	rgba(128, 128, 128, 0.4);
 }
 
+.tituloClientesIndiv{
+    color: #FF7F2B;
+}
+
 .textoServicioTec{
     width: 94%;
     padding-top: 15px;
