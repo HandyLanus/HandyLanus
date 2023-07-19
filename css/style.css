@@ -524,20 +524,20 @@ footer{
 }
 
 .cardOrange{
-    background-color: rgba(255, 127, 43, 0.1);
+    background-color: rgba(128, 128, 128, 0.1);
     box-shadow: 0px 0px 10px 2px black;
 }
 
 .cardBackColor{
-    border: 10px solid rgba(255, 127, 43, 0.5);
+    border: 10px solid 	rgba(128, 128, 128, 0.4);
 }
 
 .cardBodyColor{
-    background-color: rgba(255, 127, 43, 0.5);
+    background-color: rgba(128, 128, 128, 0.4);
 }
 
 .cardImgClientes{
-    background-color: rgba(255, 127, 43, 0.1);
+    background-color: rgba(128, 128, 128, 0.4);
 }
 
 .cardBackColorClient{
