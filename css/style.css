@@ -564,10 +564,13 @@ footer{
 }
 
 .cardImgClientes{
-    width: 14rem!important;
-    height: 350px;
     border-color: grey;
     box-shadow: 0px 0px 10px 5px rgb(77, 77, 77);
+}
+
+.tarjetaIndividualClient{
+    width: 14rem!important;
+    height: 350px;
 }
 
 .containerTextClientes{
