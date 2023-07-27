@@ -1083,6 +1083,8 @@ form{
     position: relative;
     text-align: center;
     margin-top: 10px;
+    color: #E15900;
+    font-family:initial;
 }
 
 .tituloProvincia::After, .tituloProvincia::before{
