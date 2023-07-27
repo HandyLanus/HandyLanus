@@ -1078,6 +1078,11 @@ form{
     margin-left: 32px;
 }
 
+.tituloProvincia{
+    text-align: center;
+    margin-top: 10px;
+}
+
 .hoverCardClient{
     text-decoration: none;
 }
