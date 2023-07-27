@@ -1079,8 +1079,27 @@ form{
 }
 
 .tituloProvincia{
+    display: inline-block;
+    position: relative;
     text-align: center;
     margin-top: 10px;
+}
+
+.tituloProvincia::After, .tituloProvincia::before{
+    content: '';
+    position: absolute;
+    width: 120px;
+    height: 3px;
+    background-color: black;
+    top: 0.6em;
+}
+
+.tituloProvincia::before{
+    left: -140px;
+}
+
+.tituloProvincia::After{
+    right: -140px;
 }
 
 .hoverCardClient{
