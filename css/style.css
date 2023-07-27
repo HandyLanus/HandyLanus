@@ -1088,18 +1088,18 @@ form{
 .tituloProvincia::After, .tituloProvincia::before{
     content: '';
     position: absolute;
-    width: 120px;
+    width: 330px;
     height: 3px;
-    background-color: black;
+    background-color: #FF7F2B;
     top: 0.6em;
 }
 
 .tituloProvincia::before{
-    left: -140px;
+    left: -360px;
 }
 
 .tituloProvincia::After{
-    right: -140px;
+    right: -360px;
 }
 
 .hoverCardClient{
