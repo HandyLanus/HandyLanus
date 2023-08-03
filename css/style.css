@@ -655,10 +655,17 @@ footer{
     text-align: center;
 }
 
+.imgCarouselIndex{
+    height: 200px;
+}
 
 /* Inicio de vista DESKTOP */
 
 @media (min-width: 1200px) {
+
+    .imgCarouselIndex{
+        height: 100%;
+    }
 
     .paddingBottomImg{
         width: 850px!important;
