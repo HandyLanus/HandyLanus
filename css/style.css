@@ -636,9 +636,37 @@ footer{
     padding-left: 230px;
 }
 
+/* SE FIXEA PAGINA TELEFONO */
+
+.tituloContConsultas, .tituloHorariosAtencion{
+    width: 412px!important;
+}
+
+.paddingBottomImg{
+    width: 370px!important;
+}
+
+.imgSobreNos{
+    width: 98%;
+    margin-right: 0px;
+}
+
+.containerImgSobreNosotros{
+    text-align: center;
+}
+
+
 /* Inicio de vista DESKTOP */
 
 @media (min-width: 1200px) {
+
+    .paddingBottomImg{
+        width: 850px!important;
+    }
+
+    .containerTextoSobreNosotros{
+        padding-left: 50px;
+    }
   
     .headerFixed{
         display: block;
