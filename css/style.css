@@ -659,9 +659,29 @@ footer{
     height: 200px;
 }
 
+.carouselDesktop{
+    display: none;
+}
+.carouselMobile{
+    display: block;
+}
+
+.hoverCardClient{
+    display: flex;
+    justify-content: center;
+}
+
 /* Inicio de vista DESKTOP */
 
 @media (min-width: 1200px) {
+
+    .carouselDesktop{
+        display: block;
+    }
+
+    .carouselMobile{
+        display: none;
+    }
 
     .imgCarouselIndex{
         height: 100%;
