@@ -671,6 +671,41 @@ footer{
     justify-content: center;
 }
 
+.containerTextoSobreNos{
+    display: flex;
+    justify-content: center;
+}
+
+.textoServicioTec{
+    margin-right: 0;
+}
+
+.containerLineaBlog{
+    box-shadow: inset 0px 10px 10px -6px black;
+    display: flex;
+    justify-content: center;
+    border-top: 5px solid #FF7F2B;
+    position: relative;
+}
+
+.tituloBlogIndex{
+    text-decoration: none;
+    box-shadow: 0px 10px 10px -6px black;
+    width: 230px;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    background-color: #FF7F2B;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 2px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
 /* Inicio de vista DESKTOP */
 
 @media (min-width: 1200px) {
