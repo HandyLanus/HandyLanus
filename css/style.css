@@ -702,6 +702,29 @@ footer{
     border-bottom-right-radius: 8px;
 }
 
+.containerLineaCatalogo{
+    box-shadow: 0 -5px 10px -5px black;
+    display: flex;
+    justify-content: center;
+    border-top: 5px solid #FF7F2B;
+    position: relative;
+}
+
+.titCatalogo{
+    width: 270px;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 0;
+    background-color: #FF7F2B;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
 /* Inicio de vista DESKTOP */
 
 @media (min-width: 1200px) {
