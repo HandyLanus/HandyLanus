@@ -710,6 +710,10 @@ footer{
 
 @media (min-width: 1200px) {
 
+    .page-link{
+        color: #FF7F2B;
+    }
+
     .carouselDesktop{
         display: block;
     }
