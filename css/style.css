@@ -741,6 +741,10 @@ footer{
 .cardVacia{
     display: none;
 }
+
+.tituloProvincia{
+    margin-top: 20px;
+}
 /* Inicio de vista DESKTOP */
 
 @media (min-width: 1200px) {
