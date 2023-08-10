@@ -725,9 +725,29 @@ footer{
     border-bottom-right-radius: 8px;
 }
 
+.containerTextoSobreNosotros{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.containerNuestrosClientes{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardVacia{
+    display: none;
+}
 /* Inicio de vista DESKTOP */
 
 @media (min-width: 1200px) {
+
+    .cardVacia{
+        display: block;
+    }
 
     .page-link{
         color: #FF7F2B;
