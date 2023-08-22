@@ -745,6 +745,10 @@ footer{
 .tituloProvincia{
     margin-top: 20px;
 }
+
+.pagination{
+    margin-top: 30px;
+}
 /* Inicio de vista DESKTOP */
 
 @media (min-width: 1200px) {
