@@ -776,10 +776,6 @@ footer{
     .paddingBottomImg{
         width: 850px!important;
     }
-
-    .containerTextoSobreNosotros{
-        padding-left: 50px;
-    }
   
     .headerFixed{
         display: block;
@@ -1136,7 +1132,7 @@ footer{
 
 .containerTextoSobreNosotros{
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
     margin-top: 2%;
 }
@@ -1260,7 +1256,7 @@ form{
 
 .containerImgSobreNosotros{
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
 }
 
 }
