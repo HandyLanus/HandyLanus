@@ -762,6 +762,10 @@ footer{
     font-size: 8px;
 }
 
+.tituloClientesSaecciones{
+    text-decoration-line: underline;
+}
+
 /* Inicio de vista DESKTOP */
 
 @media (min-width: 1200px) {
