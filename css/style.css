@@ -753,9 +753,22 @@ footer{
 .containerTextoSobreNosotros{
     flex-direction: column;
 }
+
+.d-none{
+    display: block!important;
+}
+
+.TitCarrouselProd{
+    font-size: 8px;
+}
+
 /* Inicio de vista DESKTOP */
 
 @media (min-width: 1200px) {
+
+    .TitCarrouselProd{
+        font-size: 25px;
+    }
 
     .cardVacia{
         display: block;
