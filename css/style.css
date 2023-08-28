@@ -728,7 +728,7 @@ footer{
 .containerTextoSobreNosotros{
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
 }
 
 .containerNuestrosClientes{
@@ -748,6 +748,10 @@ footer{
 
 .pagination{
     margin-top: 30px;
+}
+
+.containerTextoSobreNosotros{
+    flex-direction: column;
 }
 /* Inicio de vista DESKTOP */
 
@@ -1133,7 +1137,7 @@ footer{
 .containerTextoSobreNosotros{
     display: flex;
     justify-content: flex-start;
-    align-items: flex-start;
+    align-items:center;
     margin-top: 2%;
 }
 
