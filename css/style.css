@@ -569,6 +569,11 @@ footer{
     height: 350px;
 }
 
+.tarjetaFedConsejo{
+    width: 100%!important;
+    height: 130px;
+}
+
 .containerTextClientes{
     display: flex;
     justify-content: center;
@@ -769,6 +774,24 @@ footer{
 /* Inicio de vista DESKTOP */
 
 @media (min-width: 1200px) {
+
+
+    .tarjetaFedConsejo{
+        width: 1150px!important;
+        height: 350px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .imgConsejo{
+        width: 1150px;
+    }
+
+    .sectionConsejo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 
     .TitCarrouselProd{
         font-size: 25px;
