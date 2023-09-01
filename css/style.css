@@ -771,6 +771,10 @@ footer{
     text-decoration-line: underline;
 }
 
+.textoDesarrollo{
+padding-left: 0;
+}
+
 /* Inicio de vista DESKTOP */
 
 @media (min-width: 1200px) {
