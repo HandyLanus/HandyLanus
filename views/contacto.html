@@ -85,17 +85,17 @@
     </section>
 
 
-    <form action="">
+    <form action="https://formsubmit.co/handylanus@gmail.com" method="POST">
           <div class="containerForm">
                 <h3 class="enviarMensaje">Envie su consulta</h3>
 
                 <div class="mb-3 marginContacto">
                   <label for="exampleFormControlInput1" class="form-label">Nombre</label>
-                  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Nombre">
+                  <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Nombre">
                 </div>
                 <div class="mb-3 marginContacto">
                   <label for="exampleFormControlInput1" class="form-label">Apellido</label>
-                  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Apellido">
+                  <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Apellido">
                 </div>
                 <div class="mb-3 marginContacto">
                   <label for="exampleFormControlInput1" class="form-label">E-mail</label>
@@ -106,6 +106,12 @@
                   <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Comentario ejemplo"></textarea>
                 </div>
 
+                <div class="mb-3 marginContacto">
+                  <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+                
+                <input type="hidden" name="_next" value="http://127.0.0.1:5500/views/contacto.html">
+                <input type="hidden" name="_captcha" value="false">
           </div>
     </form>
 
