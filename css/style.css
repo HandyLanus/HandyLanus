@@ -311,6 +311,15 @@ footer{
     margin: 0;
 }
 
+.centrarBotonContact{
+    text-align: center;
+}
+
+.botonContacto{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
 .containerFooter{
     margin-top: 30px;
     display: flex;
@@ -571,7 +580,7 @@ footer{
 
 .tarjetaFedConsejo{
     width: 100%!important;
-    height: 130px;
+    height: 135px;
 }
 
 .containerTextClientes{
@@ -749,6 +758,32 @@ footer{
 
 .tituloProvincia{
     margin-top: 20px;
+}
+
+.tituloProvincia{
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    margin-top: 10px;
+    color: #E15900;
+    font-family:initial;
+}
+
+.tituloProvincia::After, .tituloProvincia::before{
+    content: '';
+    position: absolute;
+    width: 60px;
+    height: 3px;
+    background-color: #FF7F2B;
+    top: 0.6em;
+}
+
+.tituloProvincia::before{
+    left: -80px;
+}
+
+.tituloProvincia::After{
+    right: -80px;
 }
 
 .pagination{
